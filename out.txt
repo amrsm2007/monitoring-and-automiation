@@ -1,0 +1,70 @@
+ there is chassis alarm on : BNHR-EDG-MX96-01 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-28 02:07:33 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-02 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-27 03:03:16 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-01 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-28 02:07:33 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-02 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-27 03:03:16 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-01 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-28 02:07:33 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-02 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-27 03:03:16 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-01 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-28 02:07:33 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-02 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-27 03:03:16 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-01 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-28 02:07:33 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
+ there is chassis alarm on : BNHR-EDG-MX96-02 as below 
+
+1 alarms currently active
+Alarm time               Class  Description
+2016-03-27 03:03:16 AST  Minor  Require a Fan Tray upgrade
+
+____________________________________________________________________________________________________
